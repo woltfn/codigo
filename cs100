@@ -1,0 +1,13 @@
+SC 100
+Descrição:
+Erro do motor da lâmpada / scanner CIS (C6)
+
+Causas:
+Ocorreu um problema com o motor do scanner ou do CIS no scanner de mesa:
+
+Após a verificação de energia do CIS
+Após o sombreamento
+Solução:
+Após o CIS não retornar à posição inicial
+Verifique a conexão do chicote do scanner
+Substitua o scanner
